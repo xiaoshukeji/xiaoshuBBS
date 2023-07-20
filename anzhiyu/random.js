@@ -1,1 +1,1 @@
-var posts=["2023/07/20/hello-world/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2022/12/05/hexo基本安装及配置/","2022/12/23/“我们”的美好时光/","2022/12/24/我的世界小树科技/","2022/12/05/欢迎来到我的博客/","2022/12/27/央视2022清明上河图/","2023/01/04/你安全吗？/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
